@@ -16,7 +16,7 @@
 		<div class="login-content" align="center">
 			<form action="../Processes/login.php" method="POST">
 				<img src="../Images/avatar.svg">
-				<h2 class="title">Welcome</h2>
+				<h2 class="title">Be a Seller</h2>
            		<div class="input-div one">
            		   <div class="i">
            		   		<i class="fas fa-user"></i>
@@ -33,9 +33,9 @@
            		    	<input name="pwd" type="password" class="input" placeholder="Password">
             	   </div>
             	</div>
-              <input type="text" name="pos" hidden="" value="B">
+              <input type="text" name="pos" hidden="" value="S">
             	<a href="#">Forgot Password?</a>
-              <a href="register.php">Register</a>
+              <a href="sellerRegister.php">Register as a Seller</a>
             	<input name="login" type="submit" class="btn btn-login" value="Login">
             </form>
         </div>

@@ -40,7 +40,7 @@
                     <input name="re" type="password" class="input" placeholder="Re-type Password">
                  </div>
               </div>
-              <input type="text" name="pos" hidden="" value="B">
+              <input type="text" name="pos" hidden="" value="S">
 <!--             	<a href="#">Forgot Password?</a>
               <a href="#">Register</a>
             	<input name="login" type="submit" class="btn btn-login" value="Login"> -->
